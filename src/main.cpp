@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Airtel_My_Network";
-const char* password = "9910357357";
+const char* ssid = "";
+const char* password = "";
 
 WebServer server(80);
 
